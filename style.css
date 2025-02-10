@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.grad{
+    background-image: linear-gradient( 60deg , #5d6dc9, rgb(255, 0, 0));}
+.pp-image img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: flex;
+    gap: 10px;
+}
+.aa{
+    width: fit-content;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
